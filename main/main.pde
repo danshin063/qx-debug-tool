@@ -1,5 +1,6 @@
 float gTotalTime = 0.0;
 float gAmpl = 3.0;
+//тестовый коммент
 
 Copter copter;
 cDataArray mxData = new cDataArray(200), myData = new cDataArray(200), mzData = new cDataArray(200), 
